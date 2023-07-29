@@ -61,7 +61,7 @@
 
 /* Domestic */
 .domestic-container {
-    background-image: url('/Users/LiewYuPing/Downloads/web website 2/Website photo/tourist attraction/sky.webp');
+    background-image: url('/Website photo/tourist attraction/sky.webp');
     display: flex;
     justify-content: center;
     padding-bottom: 12px;
@@ -103,5 +103,5 @@
 }
 
 .domestic-container-2 {
-    background-image: url('/Users/LiewYuPing/Downloads/web website 2/Website photo/tourist attraction/night.webp');
+    background-image: url('/Website photo/tourist attraction/night.webp');
 }
