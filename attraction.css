@@ -61,7 +61,7 @@
 
 /* Domestic */
 .domestic-container {
-    background-image: url('/Website photo/tourist attraction/sky.webp');
+    background-image: url('https://raw.githubusercontent.com/yupingliew68/lugia2/main/Website photo/tourist attraction/sky.webp');
     display: flex;
     justify-content: center;
     padding-bottom: 12px;
